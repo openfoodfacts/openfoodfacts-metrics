@@ -1,7 +1,8 @@
 # openfoodfacts-metrics
 
 This repository is here to coordinate the metrics and dashboard that can be collected / displayed around the Open Food Facts projects
-<img style="width: 300px" source="https://github.com/user-attachments/assets/4a70c5cb-bce0-4b07-93ad-1bb2ba457995"></img>
+
+<img style="width: 300px;" src="https://github.com/user-attachments/assets/4a70c5cb-bce0-4b07-93ad-1bb2ba457995"></img>
 
 
 ## How to contribute
@@ -9,7 +10,10 @@ This repository is here to coordinate the metrics and dashboard that can be coll
 There are different ways to contribute:
 * propose a discussion around a metric we should capture, why and how
 * pick an issue and try to find a technical solution to it
-* create dashboards using [superset](https://sql.openfoodfacts.org) to help gain 
+* create dashboards using [superset](https://sql.openfoodfacts.org) to help gain insights on the project or specific concerns
+  (eg: monitoring contribution, helping with moderation or data quality, etc.)
+
+
 
 ## Tools
 
